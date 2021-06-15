@@ -27,5 +27,3 @@ This Dashboard Consist Of 3 Plots Given Below:
 
 3:Comparision of cured and death  of chosen state.
 
-![dash2](https://user-images.githubusercontent.com/83400257/122031968-d38ad880-cdec-11eb-9295-e446e242e92e.PNG)
-
