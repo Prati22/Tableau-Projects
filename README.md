@@ -31,7 +31,7 @@ This Dashboard Consist Of 3 Plots Given Below:
 
 # What I Learnt in Tableau :
 
-Create 3 interactive dashboards and publish it online to share
+Create 3 interactive dashboards and publish it online to share.
 
 Learnt how to connect to different data sources such as Excel, Google Sheets and Cloud Servers.
 
