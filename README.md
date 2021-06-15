@@ -28,3 +28,26 @@ This Dashboard Consist Of 3 Plots Given Below:
 3:Comparision of cured and death  of chosen state.
 
 ![Statewise dash](https://user-images.githubusercontent.com/83400257/122033942-a50dfd00-cdee-11eb-8167-f180f9d1d8c8.PNG)
+
+# What I Learnt in Tableau :
+
+Create 3 interactive dashboards and publish it online to share
+
+Learnt how to connect to different data sources such as Excel, Google Sheets and Cloud Servers.
+
+To Create a variety of charts including bar charts, line charts, maps, tables and dual axis charts.
+
+To Create calculated fields including developing IF Statements.
+
+To Create sets, hierarchies and groups.
+
+Understood how joins work.
+
+Understood Level Of Detail calculations.
+
+To Create Parameters
+
+Understood how to use dashboard actions and create interactive dashboards.
+
+
+
