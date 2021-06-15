@@ -6,5 +6,6 @@ The objective of the project was to create innovative and interactive Tableau da
 In this data analysis project, I have explored the Prosper dataset and used Tableau to create my visualizations.
 The dataset contains has 1025 Records in 9 Columns.This data on 30th Jan 2020 from 16 April 2020 which consist of state of India cured,confirmed and death cases.
 # Screenshots
+# COVID19 INDIA ANALYSIS
 ![dash1](https://user-images.githubusercontent.com/83400257/122022534-4f345780-cde4-11eb-96cd-a0d0b0ad1d95.PNG)
 
